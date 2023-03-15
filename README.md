@@ -8,7 +8,7 @@
 Certain scientific manuscripts have figures that show 3D objects as a limited number of 3D views, like:
 
 <img src=https://github.com/ElettraSciComp/Fig3d/blob/main/images/basic_figure.png alt="basic_figure"/>
-**Figure 1:** (panel A) example of a simplified 3D model based on the logo of Elettra Sincrotrone Trieste. (panel B) Fig3d allows for multiple panels, just like manuscript figures!
+<b>Figure 1:</b> (panel A) example of a simplified 3D model based on the logo of Elettra Sincrotrone Trieste. (panel B) Fig3d allows for multiple panels, just like manuscript figures!
 
 
 Fig3d allows for an interactive Figure of 3D objects arranged in panels and accompanied captions. Its rendering is simple and is based on the excellent [Stl Viewer Javascript Plugin](https://www.viewstl.com/plugin/). The previous figure (as appears in PDF, online, etc) can be viewed within the browser window, as shown below: 
