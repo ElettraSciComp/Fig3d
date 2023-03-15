@@ -1,7 +1,5 @@
 <div align="left">  
 <img src=https://github.com/ElettraSciComp/Fig3d/blob/main/images/logo.png alt="logo"/>
-### Version 15.03.23
-
 
 # Fig3d : Interactive 3D figures
 
