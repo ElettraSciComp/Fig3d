@@ -11,7 +11,7 @@ Certain scientific manuscripts have figures that show 3D objects as a limited nu
 Fig3d allows for an interactive Figure of 3D objects arranged in panels and accompanied captions. Its rendering is simple and is based on the excellent [Stl Viewer Javascript Plugin](https://www.viewstl.com/plugin/). The previous figure (as appears in PDF, online, etc) can be viewed within the browser window, as shown below: 
 <img src=https://github.com/ElettraSciComp/Fig3d/blob/main/images/basic_figure_screenshot.png alt="basic_figure_screenshot"/>
 
-For example, [here](https://download2.grid.elettra.trieste.it/prox_ppYDIgHMXA5jOzsg4rgjsbuid5KP0uPb/Elettra3D_logo/Elettra3D_logo_v2/rawdata/fig3D_elettra/) you can find the interactive Fig3d of the Elettra logo!
+For example, [here](https://download2.grid.elettra.trieste.it/prox_8t4H3EybKLeTZAhSTDXZPUYylfwnxidd/Elettra3D_logo/Elettra3D_logo_v3/rawdata/fig3D_elettra/) you can find the interactive Fig3d of the Elettra logo!
 
 The main advantage of Fig3D is a specialised web based Wizard that given a caption and a 3D Object (ie. .stl) generates the corresponding standalone interactive 3D figure that requires no special servers or software to run (just a web browser). It is also encouraged that it is included as a hyperlink, ideally with its own DOI to the manuscript's figure. The file may be hosted on standard scientific data repos.
 <img src=https://github.com/ElettraSciComp/Fig3d/blob/main/images/fig3d_wizard.png alt="fig3d_wizard"/>
