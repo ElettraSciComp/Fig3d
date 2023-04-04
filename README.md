@@ -1,5 +1,5 @@
 <div align="left">  
-<img src=https://github.com/ElettraSciComp/Fig3d/blob/main/images/logo_small.png alt="logo" style="text-align:center;"/>
+<img src=https://github.com/ElettraSciComp/Fig3d/blob/main/images/logo_small.png alt="logo" align="center"/>
 
 # Fig3d : Interactive 3D figures
 
