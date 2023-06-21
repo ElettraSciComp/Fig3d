@@ -24,6 +24,8 @@ The main advantage of Fig3D is a specialised web based Wizard that given a capti
 
 ## Fig3d : Example use case for 3D brain segmentation for Magnetic Resonance Imaging (MRI) in neuro-oncology
 
-A recent implementation example of Fig3d can be found at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7640630.svg)](https://doi.org/10.5281/zenodo.7640630) In this use case, advanced methods of automated MRI assessment are employed in order to reconstruct 3D brain segmentations. These 3D reconstructions in can then be converted to the .stl format and subsequently even 3D printed.
+A recent implementation example of Fig3d can be found at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7640630.svg)](https://doi.org/10.5281/zenodo.7640630) 
+
+In this use case, advanced methods of automated MRI assessment are employed in order to reconstruct 3D brain segmentations. These 3D reconstructions in can then be converted to the .stl format and subsequently even 3D printed.
 
 </div>
